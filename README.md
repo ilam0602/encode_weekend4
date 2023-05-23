@@ -24,3 +24,4 @@ We implemented functions as followed:
 
 7. Retrieved winning proposal from contract and displayed winning proposal name by querying the contract on chain
 
+![screenshot of app](Screenshot.png)
